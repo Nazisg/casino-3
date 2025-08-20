@@ -32,7 +32,7 @@ export default function Footer() {
             <h2 className="text-[#dda435] font-semibold mb-4">Support</h2>
             <div className="space-y-2 text-gray-400 text-sm">
               <p>24/7 Customer Support</p>
-              <p>Email: support@top10royalcasino.co.uk</p>
+              <p>Email: casino.co.uk</p>
               <p>Live Chat Available</p>
             </div>
           </div>
@@ -40,10 +40,10 @@ export default function Footer() {
           <div className="col-span-1">
             <h2 className="text-[#dda435] font-semibold mb-4">Responsible Gaming</h2>
             <div className="space-y-2">
-              <a href="https://www.gambleaware.org/" target="_blank" className="block text-gray-400 hover:text-[#DDA435] transition-colors text-sm">BeGambleAware.org</a>
-              <a href="https://www.gamcare.org.uk/" target="_blank" className="block text-gray-400 hover:text-[#DDA435] transition-colors text-sm">GamCare.org.uk</a>
-              <a href="https://gamblingtherapy.org/" target="_blank" className="block text-gray-400 hover:text-[#DDA435] transition-colors text-sm">GamblingTherapy.org</a>
-              <a href="https://www.gamstop.co.uk/" target="_blank" className="block text-gray-400 hover:text-[#DDA435] transition-colors text-sm">GamStop.co.uk</a>
+              <a href="#" target="_blank" className="block text-gray-400 hover:text-[#DDA435] transition-colors text-sm">BeGambleAware.org</a>
+              <a href="#" target="_blank" className="block text-gray-400 hover:text-[#DDA435] transition-colors text-sm">GamCare.org.uk</a>
+              <a href="#" target="_blank" className="block text-gray-400 hover:text-[#DDA435] transition-colors text-sm">GamblingTherapy.org</a>
+              <a href="#" target="_blank" className="block text-gray-400 hover:text-[#DDA435] transition-colors text-sm">GamStop.co.uk</a>
             </div>
           </div>
         </div>
@@ -54,9 +54,9 @@ export default function Footer() {
           <h2 className="text-[#dda435] font-semibold">Gambling Awareness & Support</h2>
           <div className="flex flex-wrap justify-center items-center gap-8">
             <a href="https://www.begambleaware.org" target="_blank" className="opacity-70 hover:opacity-100 transition-opacity h-[40px] w-[120px] flex items-center"> <img src="/icons/footer-logo-1.webp" className="object-contain" alt="footer-logo" /></a>
-            <a href="https://www.begambleaware.org" target="_blank" className="opacity-70 hover:opacity-100 transition-opacity h-[40px] w-[120px] flex items-center" > <img src="/icons/footer-logo-2.webp" className="object-contain" alt="footer-logo" /></a>
-            <a href="https://www.begambleaware.org" target="_blank" className="opacity-70 hover:opacity-100 transition-opacity h-[40px] w-[120px] flex items-center"> <img src="https://www.top10royalcasino.co.uk/grd.svg" className="object-contain" alt="footer-logo" /></a>
-            <a href="https://www.begambleaware.org" target="_blank" className="opacity-70 hover:opacity-100 transition-opacity h-[40px] w-[120px] flex items-center"> <img src="/icons/footer-logo-4.svg" className="object-contain" alt="footer-logo" /></a>
+            <a href="https://www.gamcare.org.uk/" target="_blank" className="opacity-70 hover:opacity-100 transition-opacity h-[40px] w-[120px] flex items-center" > <img src="/icons/footer-logo-2.webp" className="object-contain" alt="footer-logo" /></a>
+            <a href="https://gamblingtherapy.org/" target="_blank" className="opacity-70 hover:opacity-100 transition-opacity h-[40px] w-[120px] flex items-center"> <img src="https://www.top10royalcasino.co.uk/grd.svg" className="object-contain" alt="footer-logo" /></a>
+            <a href="https://www.gamstop.co.uk/" target="_blank" className="opacity-70 hover:opacity-100 transition-opacity h-[40px] w-[120px] flex items-center"> <img src="/icons/footer-logo-4.svg" className="object-contain" alt="footer-logo" /></a>
             <a href="https://www.begambleaware.org" target="_blank" className="opacity-70 hover:opacity-100 transition-opacity h-[40px] w-[120px] flex items-center"> <img src="/icons/footer-logo-5.webp" className="object-contain" alt="footer-logo" /></a>
           </div>
         </div>
